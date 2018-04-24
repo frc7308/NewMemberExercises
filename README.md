@@ -3,7 +3,7 @@ Exercises for new members to learn how to program using Java and WPILib
 
 ## Table of Contents
 
-### Programming Basics
+### Java Basics
 
 1. Hello, World!
 2. Hello, variables
